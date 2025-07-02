@@ -10,7 +10,7 @@ Next, we performed single-cell transcriptomic and T-cell receptor sequencing ana
 
 
 ## Data portal
-- Data available at [GSA for human](https://ngdc.cncb.ac.cn/gsa-human) and [OMIX](https://nadc.cnch.ac.cn/omix)
+- Data available at [GSA for human](https://ngdc.cncb.ac.cn/gsa-human) and [OMIX](https://ngdc.cncb.ac.cn/omix)
   -  scRNA-seq: HRA008733, HRA008946
   -  Bulk RNA-seq: HRA009407
   -  Visium HD: HRA010609, OMIX009291
