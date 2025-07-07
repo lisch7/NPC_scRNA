@@ -8,12 +8,17 @@ Next, we performed single-cell transcriptomic and T-cell receptor sequencing ana
 
 ![image](https://github.com/user-attachments/assets/4c3ba6d4-3210-4a19-8883-1c33af06546c)
 
-
 ## Data portal
 - Data available at [GSA for human](https://ngdc.cncb.ac.cn/gsa-human) and [OMIX](https://ngdc.cncb.ac.cn/omix)
   -  scRNA-seq: HRA008733, HRA008946
   -  Bulk RNA-seq: HRA009407
   -  Visium HD: HRA010609, OMIX009291
+
+## System requirements of the code
+- Python v3.9.0
+- Omicverse v1.5.8
+- scanpy v1.9.5
+- harmonypy v0.0.9
 
 ## Contact us
 - Lin-Quan Tang, MD, PhD, tanglq@sysucc.org.cn
