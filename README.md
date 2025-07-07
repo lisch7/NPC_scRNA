@@ -16,9 +16,9 @@ Next, we performed single-cell transcriptomic and T-cell receptor sequencing ana
 
 ## System requirements of the code
 - Python v3.9.0
-- Omicverse v1.5.8
-- scanpy v1.9.5
-- harmonypy v0.0.9
+- Omicverse v1.5.8: https://github.com/Starlitnightly/omicverse
+- scanpy v1.9.5: https://scanpy.readthedocs.io/en/stable/
+- harmonypy v0.0.9: https://github.com/slowkow/harmonypy
 
 ## Contact us
 - Lin-Quan Tang, MD, PhD, tanglq@sysucc.org.cn
